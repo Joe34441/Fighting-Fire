@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Flammable
+  - Right_Hand
+  - Left_Hand
+  - Axe
+  - Old_Woman
+  - Baby
+  - Midground
+  - Flame_Thrower
+  - Rocket_Launcher
+  - Fire_Extinguisher
+  - Fire
+  - Wall
+  - Normal_Vision
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post_Processing
+  - Water
+  - UI
+  - Sliceable
+  - Grabbable
+  - Ground
+  - Body
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
